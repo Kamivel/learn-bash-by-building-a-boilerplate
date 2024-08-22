@@ -72,3 +72,5 @@ pwd
 ls --color=auto
 cd ..
 ls --color=auto
+mote package.json
+more package.json
