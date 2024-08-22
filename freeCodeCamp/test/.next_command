@@ -102,3 +102,4 @@ ls --color=auto
 clear
 mkder website
 mkdir website
+ls --color=auto
