@@ -183,3 +183,15 @@ cd images
 mkdir images
 cd images/
 touch background.jpg
+cd ..
+cd .
+cd ..
+cd ..
+ls --color=auto
+cd client/
+cd src/
+ls --color=auto
+cd ..
+ls --color=auto
+cd assets/images/
+cd ../../..
