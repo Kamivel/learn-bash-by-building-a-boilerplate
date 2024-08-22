@@ -178,3 +178,4 @@ cd client/
 ls --color=auto
 mdkir assets
 mkdir assets
+cd assets/
