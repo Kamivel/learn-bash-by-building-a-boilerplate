@@ -70,3 +70,4 @@ cd test
 pws
 pwd
 ls --color=auto
+cd ..
