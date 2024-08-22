@@ -75,3 +75,4 @@ ls --color=auto
 mote package.json
 more package.json
 clear
+ls --color=auto
