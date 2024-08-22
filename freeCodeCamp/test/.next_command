@@ -196,3 +196,4 @@ ls --color=auto
 cd assets/images/
 cd ../../..
 cd images/
+ls --color=auto
