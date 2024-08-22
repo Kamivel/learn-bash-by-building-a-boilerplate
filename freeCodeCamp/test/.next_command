@@ -175,3 +175,6 @@ find -name styles.css
 find -name src
 find
 cd client/
+ls --color=auto
+mdkir assets
+mkdir assets
