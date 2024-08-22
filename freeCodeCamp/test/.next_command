@@ -179,3 +179,5 @@ ls --color=auto
 mdkir assets
 mkdir assets
 cd assets/
+cd images
+mkdir images
